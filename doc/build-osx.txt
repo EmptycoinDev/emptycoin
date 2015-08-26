@@ -27,7 +27,7 @@ but you can get the current version from http://developer.apple.com
 
 1.  Clone the github tree to get the source code:
 
-git clone https://github.com/rat4/emptycoin.git emptycoin
+git clone https://github.com/EmptycoinDev/emptycoin.git emptycoin
 
 2.  Download and install MacPorts from http://www.macports.org/
 
